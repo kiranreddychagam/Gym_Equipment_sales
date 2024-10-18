@@ -8,9 +8,9 @@ Objective: Organize and map suppliers to the brands they supply.
 Details:
 Identified 3 suppliers and their corresponding 9 brands.
 Segregated the products for each brand into three categories:
-Rowing Machine
-Airbike
-Treadmill
+Rowing Machine,
+Airbike and
+Treadmill.
 This segregation allows you to understand which suppliers are providing specific brands and categories of equipment, making it easier to manage inventory and supplier relationships.
 ![image](https://github.com/user-attachments/assets/24fc7006-d4e8-4146-b16d-dfcae4374b07)
 
